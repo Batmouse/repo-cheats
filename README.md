@@ -9,18 +9,18 @@ Welcome to the **Repo Cheats** repository! This project aims to provide a collec
 
 ## ⚡ Features
 
--**Heal Player**
-**Damage Player**
-**Infinite Health**
-**God Mode**
-**Revive Selected Player**
-**Spawn MoneyBag**
-**Change Speed**
-**Enemy Esp (not optimized yet but working)**
-**Infinity Stamina**
-**Send Selected Player To Void**
-**Kill ALl Enemies**
-**Kill Selected Player**
+- **Heal Player**
+- **Damage Player**
+- **Infinite Health**
+- **God Mode**
+- **Revive Selected Player**
+- **Spawn MoneyBag**
+- **Change Speed**
+- **Enemy Esp (not optimized yet but working)**
+- **Infinity Stamina**
+- **Send Selected Player To Void**
+- **Kill ALl Enemies**
+- **Kill Selected Player**
 
 ## 🛠 Installation
 
