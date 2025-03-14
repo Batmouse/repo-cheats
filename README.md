@@ -9,7 +9,7 @@ Welcome to the **Repo Cheats** repository! This project aims to provide a collec
 
 ## ⚡ Features
 
-**Heal Player**
+-**Heal Player**
 **Damage Player**
 **Infinite Health**
 **God Mode**
